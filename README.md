@@ -26,6 +26,15 @@ Using the keywords `encode {query}` or `decode {query}`, will transform your que
 
 ![alt text][encode]
 
+### [Finder Settings](http://www.aiyo.dk/alfredapp/v2)
+by (@aiyodk)[https://github.com/aiyodk]
+
+Change setting for: Hidden files, User Library and what to show on the Desktop.
+More setting might be added later.
+
+![alt text][finder]
+![alt text][desktop]
+
 ### IP Address
 by [David Ferguson](http://jdfwarrior.tumblr.com)
 
@@ -41,6 +50,7 @@ One of the features of iTerm 2 is the concept of 'Profiles'. A profile can save 
 ![alt text][iterm2profile]
 
 ### Launch iOS Simulator
+by Hiroyuki Nakamura
 
 Launch iOS Simulator
 
@@ -76,4 +86,6 @@ by (@aiyodk)[https://github.com/aiyodk]
 [iterm2profile]: https://raw.github.com/edgar/alfred2-workflows/master/screenshots/iterm2profile.png  "Sample result"
 [openiterm2]: https://raw.github.com/edgar/alfred2-workflows/master/screenshots/openiterm2.png  "Sample result"
 [ip]: https://raw.github.com/edgar/alfred2-workflows/master/screenshots/ip.png  "Sample result"
+[finder]: https://github.com/aiyodk/Alfred-Extensions/raw/master/AlfredApp_2.x/Finder-Settings/Screenshot-Finder.png "Sample result"
 [ios]: https://raw.github.com/edgar/alfred2-workflows/master/screenshots/ios.png  "Sample result"
+[desktop]: https://github.com/aiyodk/Alfred-Extensions/raw/master/AlfredApp_2.x/Finder-Settings/Screenshot-Desktop.png "Sample result"
