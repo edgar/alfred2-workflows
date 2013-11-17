@@ -26,10 +26,12 @@ Using the keywords `encode {query}` or `decode {query}`, will transform your que
 
 ![alt text][encode]
 
-### [VirtualBox](www.aiyo.dk/alfredapp/v2)
-by (@aiyodk)[https://github.com/aiyodk]
+### IP Address
+by [David Ferguson](http://jdfwarrior.tumblr.com)
 
-![alt text][virtualbox]
+Show local and external IP address
+
+![alt text][ip]
 
 ### [iTerm2 Profiles](http://qandr.org/quentin/software/alfred_itp)
 by Quentin Stafford-Fraser
@@ -37,6 +39,12 @@ by Quentin Stafford-Fraser
 One of the features of iTerm 2 is the concept of 'Profiles'. A profile can save a particular terminal configuration, including things like background colours, but most importantly, including an initial command to be run when the terminal is started.
 
 ![alt text][iterm2profile]
+
+### Launch iOS Simulator
+
+Launch iOS Simulator
+
+![alt text][ios]
 
 ### Open folder in iTerm2
 by Steffen Bilde
@@ -56,12 +64,10 @@ by [@DavidStaron](https://github.com/DavidStaron)
    * Select and copy some text, for example from your internet browser, with **CMD-C**
    * -> Alfred -> **strpaste**
 
-### IP Address
-by [David Ferguson](http://jdfwarrior.tumblr.com)
+### [VirtualBox](www.aiyo.dk/alfredapp/v2)
+by (@aiyodk)[https://github.com/aiyodk]
 
-Show local and external IP address
-
-![alt text][ip]
+![alt text][virtualbox]
 
 [dash]: https://raw.github.com/willfarrell/alfred-dash-workflow/master/screenshots/dash.png  "Sample result"
 [colors]: https://raw.github.com/edgar/alfred2-workflows/master/screenshots/colors.png  "Sample result"
@@ -70,3 +76,4 @@ Show local and external IP address
 [iterm2profile]: https://raw.github.com/edgar/alfred2-workflows/master/screenshots/iterm2profile.png  "Sample result"
 [openiterm2]: https://raw.github.com/edgar/alfred2-workflows/master/screenshots/openiterm2.png  "Sample result"
 [ip]: https://raw.github.com/edgar/alfred2-workflows/master/screenshots/ip.png  "Sample result"
+[ios]: https://raw.github.com/edgar/alfred2-workflows/master/screenshots/ios.png  "Sample result"
