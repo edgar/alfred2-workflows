@@ -64,9 +64,9 @@ Show local and external IP address
 ![alt text][ip]
 
 [dash]: https://raw.github.com/willfarrell/alfred-dash-workflow/master/screenshots/dash.png  "Sample result"
-[colors]: https://raw.github.com/edgar/alfred2-workflow2/master/screenshots/colors.png  "Sample result"
+[colors]: https://raw.github.com/edgar/alfred2-workflows/master/screenshots/colors.png  "Sample result"
 [encode]: https://raw.github.com/willfarrell/alfred-encode-decode-workflow/master/screenshots/encode.png  "Sample result"
-[virtualbox]: https://raw.github.com/edgar/alfred2-workflow2/master/screenshots/virtualbox.png  "Sample result"
-[iterm2profile]: https://raw.github.com/edgar/alfred2-workflow2/master/screenshots/iterm2profile.png  "Sample result"
-[openiterm2]: https://raw.github.com/edgar/alfred2-workflow2/master/screenshots/openiterm2.png  "Sample result"
-[ip]: https://raw.github.com/edgar/alfred2-workflow2/master/screenshots/ip.png  "Sample result"
+[virtualbox]: https://raw.github.com/edgar/alfred2-workflows/master/screenshots/virtualbox.png  "Sample result"
+[iterm2profile]: https://raw.github.com/edgar/alfred2-workflows/master/screenshots/iterm2profile.png  "Sample result"
+[openiterm2]: https://raw.github.com/edgar/alfred2-workflows/master/screenshots/openiterm2.png  "Sample result"
+[ip]: https://raw.github.com/edgar/alfred2-workflows/master/screenshots/ip.png  "Sample result"
