@@ -27,7 +27,7 @@ Using the keywords `encode {query}` or `decode {query}`, will transform your que
 ![alt text][encode]
 
 ### [Finder Settings](http://www.aiyo.dk/alfredapp/v2)
-by (@aiyodk)[https://github.com/aiyodk]
+by [@aiyodk](https://github.com/aiyodk)
 
 Change setting for: Hidden files, User Library and what to show on the Desktop.
 More setting might be added later.
@@ -75,7 +75,7 @@ by [@DavidStaron](https://github.com/DavidStaron)
    * -> Alfred -> **strpaste**
 
 ### [VirtualBox](www.aiyo.dk/alfredapp/v2)
-by (@aiyodk)[https://github.com/aiyodk]
+by [@aiyodk](https://github.com/aiyodk)
 
 ![alt text][virtualbox]
 
