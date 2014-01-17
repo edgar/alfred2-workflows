@@ -61,7 +61,7 @@ by [Enrico Schlag](https://github.com/LeEnno)
 
 Open current Finder window in Terminal/iTerm and vice versa
 
-For iTerm (which is waht I use) these are the commands:
+For iTerm (which is what I use) these are the commands:
 
 - `fi`: open current **Finder** directory in **iTerm**
 - `if`: open current **iTerm** directory in **Finder**
