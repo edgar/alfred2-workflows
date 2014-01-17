@@ -56,12 +56,22 @@ Launch iOS Simulator
 
 ![alt text][ios]
 
-### Open folder in iTerm2
-by Steffen Bilde
+### [TerminalFinder](https://github.com/LeEnno/alfred-terminalfinder)
+by [Enrico Schlag](https://github.com/LeEnno)
 
-Open active Finder's folder in iTerm2
+Open current Finder window in Terminal/iTerm and vice versa
 
-![alt text][openiterm2]
+For iTerm (which is waht I use) these are the commands:
+
+- `fi`: open current **Finder** directory in **iTerm**
+- `if`: open current **iTerm** directory in **Finder**
+
+But also, supports Terminal:
+
+- `ft`: open current **Finder** directory in **Terminal**
+- `tf`: open current **Terminal** directory in **Finder**
+
+![alt text][terminalfinder]
 
 ### [Strip Clipboard Formatting](https://github.com/DavidStaron/alfred-workflow-stripClipboardFormatting)
 by [@DavidStaron](https://github.com/DavidStaron)
@@ -84,7 +94,7 @@ by [@aiyodk](https://github.com/aiyodk)
 [encode]: https://raw.github.com/willfarrell/alfred-encode-decode-workflow/master/screenshots/encode.png  "Sample result"
 [virtualbox]: https://raw.github.com/edgar/alfred2-workflows/master/screenshots/virtualbox.png  "Sample result"
 [iterm2profile]: https://raw.github.com/edgar/alfred2-workflows/master/screenshots/iterm2profile.png  "Sample result"
-[openiterm2]: https://raw.github.com/edgar/alfred2-workflows/master/screenshots/openiterm2.png  "Sample result"
+[terminalfinder]: https://raw.github.com/LeEnno/alfred-terminalfinder/master/screenshot_ft.png  "Sample result"
 [ip]: https://raw.github.com/edgar/alfred2-workflows/master/screenshots/ip.png  "Sample result"
 [finder]: https://github.com/aiyodk/Alfred-Extensions/raw/master/AlfredApp_2.x/Finder-Settings/Screenshot-Finder.png "Sample result"
 [ios]: https://raw.github.com/edgar/alfred2-workflows/master/screenshots/ios.png  "Sample result"
