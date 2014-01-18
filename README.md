@@ -1,7 +1,14 @@
 Alfred 2 Workflows
 ==================
 
-A collection of useful Alfred 2 workflows that I found on internet.
+A collection of useful Alfred 2 workflows that I use on a daily basis.
+
+###[Launch Android Simulator](https://github.com/edgar/alfred2-workflows/tree/master/workflows/Launch Android Simulator.alfredworkflow)
+by [@edgar](http://github.com/edgar)
+
+Launch Android Simulator. Allow you to choose what virtual device you want to start.
+
+![alt text][android]
 
 ### [Colors](https://github.com/TylerEich/Alfred-Extras)
 by [@TylerEich](http://github.com/TylerEich)
@@ -89,6 +96,7 @@ by [@aiyodk](https://github.com/aiyodk)
 
 ![alt text][virtualbox]
 
+[android]: https://raw.github.com/edgar/alfred2-workflows/master/screenshots/android.png  "Sample result"
 [dash]: https://raw.github.com/willfarrell/alfred-dash-workflow/master/screenshots/dash.png  "Sample result"
 [colors]: https://raw.github.com/edgar/alfred2-workflows/master/screenshots/colors.png  "Sample result"
 [encode]: https://raw.github.com/willfarrell/alfred-encode-decode-workflow/master/screenshots/encode.png  "Sample result"
