@@ -100,3 +100,12 @@ by [@aiyodk](https://github.com/aiyodk)
 [finder]: https://github.com/aiyodk/Alfred-Extensions/raw/master/AlfredApp_2.x/Finder-Settings/Screenshot-Finder.png "Sample result"
 [ios]: https://raw.github.com/edgar/alfred2-workflows/master/screenshots/ios.png  "Sample result"
 [desktop]: https://github.com/aiyodk/Alfred-Extensions/raw/master/AlfredApp_2.x/Finder-Settings/Screenshot-Desktop.png "Sample result"
+
+### [GoogleTranslate](https://github.com/thomashempel/AlfredGoogleTranslateWorkflow)
+by [@thomashempel](https://github.com/thomashempel)
+
+```
+translate de>en Haus    // Will translate "Haus" from german to english.
+translate de>fr Auto    // Will translate "Auto" from german to french
+gt fr<en bottle         // Will translate "bottle" from english to french
+```
