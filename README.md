@@ -56,13 +56,6 @@ One of the features of iTerm 2 is the concept of 'Profiles'. A profile can save 
 
 ![alt text][iterm2profile]
 
-### Launch iOS Simulator
-by Hiroyuki Nakamura
-
-Launch iOS Simulator
-
-![alt text][ios]
-
 ### [TerminalFinder](https://github.com/LeEnno/alfred-terminalfinder)
 by [Enrico Schlag](https://github.com/LeEnno)
 
